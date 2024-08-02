@@ -68,4 +68,4 @@ A través de este análisis, buscamos responder preguntas clave como: ¿Qué dir
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tuusuario/tu-repositorio.git
+   git clone https://github.com/Dataniel31/Proyecto1-AnalisisDe-Pel-culasySeries-de-TVenIMDB.git
